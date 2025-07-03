@@ -27,7 +27,7 @@ make run
 * **Plantas:**
   * Peashooter: Dispara contra zumbis em cadência constante.
   * Girassol: Gera dinheiro em um intervalo de tempo constante.
-  * Nóz: Tem mais vida e serve para atrasar os zumbis, como um muro.
+  * Noz: Tem mais vida e serve para atrasar os zumbis, como um muro.
   * Missíl: Mata o zumbi que pisar na tile em que ela for plantada.
   * Carnívora: Devora o zumbi que estiver no quadrado a frente e entra em cooldown.
 * **Zumbis:**
